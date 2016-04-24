@@ -3,5 +3,5 @@
 3- asegurese de que el binario tenga permisos de ejecucion con : chmod +x ./nombre_del_ejecutable
 4- Para ejecutar: ./nombre_del_ejecutable
 5- Al ejecutar generara el archivo de salida con el nombre archivo_salida.txt
-6- Si se detecta algun error en el analisis lexico los mismos seran mostrados por consola con la descripcion del error y numero de linea, de manera 
-a no alterar el formato o estructura del archivo de salida, por cuestiones esteticas.
+6- Si se detecta algun error en el analisis lexico los mismos seran mostrados por consola con la descripcion del error
+y numero de linea, de manera a no alterar el formato o estructura del archivo de salida, por cuestiones esteticas.
