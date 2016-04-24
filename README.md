@@ -1,5 +1,5 @@
 #Readme
-1-El archivo fuente debera estar en el mismo directorio que el archivo lexer.c con el nombre: 
+1-El archivo fuente debera estar en el mismo directorio que el archivo lexer.c con el nombre:\n
 fuente y la extension .txt 
 2-para compilar en linux use el comando gcc lexer.c -o nombre_ejecutable
 3-asigne permisos de ejecucion al archivo binario creado con: chmod +x ./nombre_ejecutable
