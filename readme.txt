@@ -1,5 +1,5 @@
 Integrantes:
-Rafael Estigarribia  ci 
+Rafael Estigarribia  ci 3636406
 Francisco Brusquetti ci 4912113
 
 1- El archivo fuente con el codigo json debera estar en el mismo directorio que el archivo lexer.c con el nombre fuente.txt
