@@ -1,3 +1,7 @@
+Integrantes:
+Rafael Estigarribia  ci 
+Francisco Brusquetti ci 4912113
+
 1- El archivo fuente con el codigo json debera estar en el mismo directorio que el archivo lexer.c con el nombre fuente.txt
 2- Para compilar en linux use el compilador gcc desde la consola: gcc lexer.c -o nombre_del_ejecutable
 3- asegurese de que el binario tenga permisos de ejecucion con : chmod +x ./nombre_del_ejecutable
